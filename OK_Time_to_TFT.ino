@@ -1,3 +1,6 @@
+//Sketch uses 23618 bytes (9%) of program storage space. Maximum is 253952 bytes.
+//Global variables use 514 bytes (6%) of dynamic memory, leaving 7678 bytes for local variables. Maximum is 8192 bytes.
+//Отказывается получать дату и время
 #include <UTFT.h>                                                       // Библиотека для дисплея на ILI9486
 #include <Wire.h>
 #include "Sodaq_DS3231.h"                                               //Библиотека для часов и температуры
